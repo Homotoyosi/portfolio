@@ -1,0 +1,20 @@
+.herocontainer{
+    /* border: 1px solid blue; */
+    display: flex;
+}
+.textbox{
+    border: 1px solid green;
+    margin-left: 150px;
+    width: 100%;
+
+}
+.imagebox{
+  
+    margin-left: 10%;
+    margin-right: 50px;
+img{
+    width: 80%;
+    border-radius: 100px;
+    padding-left: 80px;
+}
+}

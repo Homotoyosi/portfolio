@@ -1,0 +1,19 @@
+.headercontainer{
+   max-width: 100%;
+   display: flex;
+   justify-content: space-between;
+   background-color: #404040;
+   color: white;
+   border: none;
+   border-radius: 16px;
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.logo{
+    margin-left: 50px;
+}  
+.navbar{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    margin-right: 50px;
+}
