@@ -14,7 +14,27 @@
 }  
 .navbar{
     display: flex;
+}
+.nav{
+    display: flex;
     gap: 50px;
     align-items: center;
     margin-right: 50px;
+}
+.icon{
+    align-self: center;
+    display: none;
+}
+@media (max-width: 800px) {
+ .logo{
+    font-size: 8px;
+    margin-left: 20px;
+ }
+ .nav{
+    display: none;
+ }
+ .icon{
+    display: block;
+    margin-right: 30px;
+ }
 }

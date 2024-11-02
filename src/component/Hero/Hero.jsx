@@ -1,16 +1,18 @@
 import "./Hero.css"
 import image from "/image.jpg"
+import linkedin from "/linkedin-logo.png"
+import githubimg from "/github.png"
 const Hero =()=>{
     return(
         <div>
             <div className="herocontainer">
                 <div className="textbox">
-                    <h1><span>Hi, my name is </span>Raheem Muiz.</h1>
-                    <p>A front-end developer with a strong passion for creating accessible, user-friendly websites that provide an exceptional experience for all users.</p>
-                    <div>
-                        <button>Contact Me</button>
-                        <button> <img src="" alt="" /></button>
-                        <button> <img src="" alt="" /></button>
+                    <h1><span>Hi, my name is </span>Raheem Muiz</h1>
+                    <p>Front-end developer focused on building accessible, user-friendly websites for an exceptional user experience.</p>
+                    <div className="buttonbox">
+                        <button id="btn1">Contact Me</button>
+                        <button id="btn2"> <img src={linkedin} alt="" /></button>
+                        <button id="btn3"> <img src={githubimg} alt="" /></button>
                     </div>
                 </div>
                 <div className="imagebox">
