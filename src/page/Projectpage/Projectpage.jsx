@@ -10,8 +10,8 @@ import World from "/worldatlas.png"
 const Projectpage = ()=>{
     return(
         <div>
+             <h1 id="h1">My Projects</h1>
             <div className="container">
-                <h1 id="h1">My Projects</h1>
                  <div className="projectbox">
                 <Project image={Furniro} text= "Furniro" word="the ultimate destination for stylish, affordable furniture!" p="Developed Furniro, a sleek landing page showcasing a wide selection of home furniture for dining rooms, bedrooms, living rooms, and more. The page features various styles and prices, offering a seamless browsing experience for every room in the home." color="card1" input1="Git Hub Link >" link1="https://github.com/Homotoyosi/Furniro" input2="Live Preview >" link2="https://homotoyosi.github.io/Furniro/" />
         
