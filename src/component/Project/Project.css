@@ -99,18 +99,15 @@ p{
     .container{
         background-image: url('Cover.png');
         background-size: cover;
-        height: 350vh;
+        height: 335vh;
     }
     .projectbox{
         flex-direction: column;
         margin: 10px 20px;
     }
     #h1{
-        text-align: center;
-        color:  #ffffff;
-        font-size: 24px;
+        color: #8946d5;
         margin-top: 50px;
-        padding-top: 20px;
     }
     .card1{
         line-height: 0.3;
