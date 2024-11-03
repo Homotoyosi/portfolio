@@ -1,0 +1,33 @@
+.techcontainer{
+    margin-top: 120px;
+h1{
+    text-align: center;
+    color:  #8946d5;
+}
+}
+.techicon{
+    display: flex;
+    justify-content: space-between;
+   margin: 50px 250px;
+img{
+    width: 70px;
+}
+}
+@media (max-width: 800px) {
+    .techcontainer{
+        margin-top: 50px;
+        h1{
+            text-align: center;
+            color:  #8946d5;
+            font-size: 24px;
+        }
+        }
+        .techicon{
+            display: flex;
+            justify-content: space-between;
+           margin: 20px 20px;
+        img{
+            width: 35px;
+        }
+        }
+}
