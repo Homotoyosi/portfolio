@@ -15,8 +15,7 @@
     line-height: 0.3;
     background-color: white;
     border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
+    border-bottom-right-radius: 20px;   
 h1{
     color: #726CED ;
     padding-top: 10px;
@@ -48,7 +47,6 @@ p{
     color: white;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 h1{
     padding-top: 15px;
     padding-left: 20px;
@@ -73,7 +71,6 @@ p{
     background-color: #F9EEE9;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 h1{
     color: #BB4F32;
     padding-top: 18px;
@@ -111,7 +108,6 @@ p{
         background-color: white;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
-        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
     h1{
         color: #726CED  ;
         padding-top: 10px;
@@ -144,8 +140,7 @@ p{
         background-color:  #4d5c6b;
         color: white;
         border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
-        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
+        border-bottom-right-radius: 20px;  
     h1{
         padding-top: 10px;
         padding-left: 20px;
@@ -171,8 +166,7 @@ p{
         line-height: 0.3;
         background-color: #F9EEE9;
         border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
-        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
+        border-bottom-right-radius: 20px;  
     h1{
         color: #BB4F32 ;
         padding-top: 10px;

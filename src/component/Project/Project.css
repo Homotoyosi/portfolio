@@ -1,9 +1,27 @@
+.container{
+    background-image: url('cover.jpg');
+    background-size: cover;
+    height: 210vh;
+    border-radius: 20px;
+}
+.projectbox{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 50px;
+    gap: 20px;
+}
+#h1{
+    text-align: center;
+    color:  #ffffff;
+    font-size: 34px;
+    margin-top: 100px;
+    padding-top: 50px;
+}
 .card1{
     line-height: 0.3;
     background-color: white;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
 h1{
     color:#BD6C45 ;
     padding-top: 10px;
@@ -34,8 +52,6 @@ p{
     background-color: #F5F7FA;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
-h1{
     color: #4CAF4F;
     padding-top: 10px;
     padding-left: 20px;
@@ -54,13 +70,12 @@ p{
     padding: 0 20px;
     font-size: 12px;
 }
-}
+
 .card3{
     line-height: 0.3;
     background-color: white;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 h1{
     color: #2B3743;
     padding-top: 10px;
@@ -82,12 +97,27 @@ p{
 }
 }
 @media (max-width: 800px) {
+    .container{
+        background-image: url('Cover.png');
+        background-size: cover;
+        height: 350vh;
+    }
+    .projectbox{
+        flex-direction: column;
+        margin: 10px 20px;
+    }
+    #h1{
+        text-align: center;
+        color:  #ffffff;
+        font-size: 24px;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
     .card1{
         line-height: 0.3;
         background-color: white;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
-        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
     h1{
         color: #BD6C45;
         padding-top: 10px;
@@ -119,8 +149,7 @@ p{
         line-height: 0.3;
         background-color: #F5F7FA;
         border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
-        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
+        border-bottom-right-radius: 20px;  
     h1{
         color: #4CAF4F;
         padding-top: 10px;
@@ -148,7 +177,6 @@ p{
         background-color: white;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
-        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
     h1{
         color: #2B3743;
         padding-top: 10px;
