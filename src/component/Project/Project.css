@@ -57,13 +57,13 @@ p{
 }
 .card3{
     line-height: 0.3;
-    background-color: #F5F7FA;
+    background-color: white;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 h1{
     color: #2B3743;
-    padding-top: 21px;
+    padding-top: 10px;
     padding-left: 20px;
 }
 h4{
@@ -73,6 +73,7 @@ h4{
 }
 img{
     width: 100%;
+    padding-top: 10px;
 }
 p{
     line-height: 1.4;
@@ -88,7 +89,7 @@ p{
         border-bottom-right-radius: 20px;
         box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
     h1{
-        color:#BD6C45 ;
+        color: #BD6C45;
         padding-top: 10px;
         padding-left: 20px;
         font-size: 24px;
@@ -116,12 +117,12 @@ p{
     }
     .card2{
         line-height: 0.3;
-        background-color: white;
+        background-color: #F5F7FA;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
     h1{
-        color:#BD6C45 ;
+        color: #4CAF4F;
         padding-top: 10px;
         padding-left: 20px;
         font-size: 24px;
@@ -149,7 +150,7 @@ p{
         border-bottom-right-radius: 20px;
         box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;    
     h1{
-        color:#BD6C45 ;
+        color: #2B3743;
         padding-top: 10px;
         padding-left: 20px;
         font-size: 24px;
