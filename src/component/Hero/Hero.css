@@ -41,8 +41,6 @@ img{
     border-radius: 10px;
 }
 #btn2{
-    /* width: 45px;
-    height: 35px; */
     background-color: white;
     border: none;
     margin-top: 15px;
@@ -52,8 +50,6 @@ img{
 }
 }
 #btn3{
-    /* width: 45px; */
-    /* height: 35px; */
     background-color: white;
     border: none;
     margin-top: 15px;
@@ -88,9 +84,8 @@ img{
     .imagebox{
         img{
             width: 85%;
-            border-radius: 100%;
+            border-radius: 20%;
             margin-left: 5px;
-            border: 3px solid #8946d5;
             margin-top: 20px;
         }
         }
@@ -101,7 +96,7 @@ img{
         #btn1{
             width: 100px;
             height: 40px;
-            background-color: #BD6C45 ;
+            background-color: black ;
             border: none;
             color: white;
             border-radius: 10px;

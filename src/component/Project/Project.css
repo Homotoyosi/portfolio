@@ -96,14 +96,14 @@ p{
 }
 }
 @media (max-width: 800px) {
-    .container{
+    /* .container{
         background-image: url('Cover.png');
         background-size: cover;
         height: 335vh;
-    }
+    } */
     .projectbox{
         flex-direction: column;
-        margin: 10px 20px;
+        margin: 0px 20px;
     }
     #h1{
         color: #8946d5;
