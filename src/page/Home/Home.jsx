@@ -1,6 +1,7 @@
 import Hero from "../../component/Hero/Hero"
 import Techstack from "../../component/Techstack/Techstack"
 import Aboutpage from "../About/Aboutpage"
+import Contactpage from "../contactpage/Contactpage"
 import Projectpage from "../Projectpage/Projectpage"
 import "./Home.css"
 const Home =()=>{
@@ -10,6 +11,7 @@ const Home =()=>{
             <Techstack />
            <Projectpage/>
            <Aboutpage />
+           <Contactpage />
         </div>
     )
 }
