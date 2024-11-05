@@ -11,8 +11,8 @@ const Contact =()=>{
                 <p>For more info, here is my resume <a href="your-resume-link.pdf" target="_blank" className="resume">Resume</a></p>
                 </div>
                 <div className="btn">
-                <button id="btn2"> <img src={linkedin} alt="" /></button>
-                <button id="btn3"> <img src={githubimg} alt="" /></button>
+                <a href="https://www.linkedin.com/in/raheemmuiz/" target="_blank" rel="noopener noreferrer"><button id="btn2"> <img src={linkedin} alt="" /></button></a>
+                <a href="https://github.com/Homotoyosi" target="_blank" rel="noopener noreferrer"><button id="btn3"> <img src={githubimg} alt="" /></button></a>
                 </div>
             </div>
             <div className="formbox">

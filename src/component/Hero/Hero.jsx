@@ -11,8 +11,8 @@ const Hero =()=>{
                     <p>Software developer and product designer focused on building accessible, user-friendly websites and mobile app for an exceptional user experience.</p>
                     <div className="buttonbox">
                         <button id="btn1">Contact Me</button>
-                        <button id="btn2"> <img src={linkedin} alt="" /></button>
-                        <button id="btn3"> <img src={githubimg} alt="" /></button>
+                        <a href="https://www.linkedin.com/in/raheemmuiz/" target="_blank" rel="noopener noreferrer"> <button id="btn2"> <img src={linkedin} alt="" /></button></a>
+                        <a href="https://github.com/Homotoyosi" target="_blank" rel="noopener noreferrer"> <button id="btn3"> <img src={githubimg} alt="" /></button></a>
                     </div>
                 </div>
                 <div className="imagebox">
