@@ -1,7 +1,7 @@
 .container{
     background-image: url('cover.jpg');
     background-size: cover;
-    height: 180vh;
+    height: 300vh;
     border-radius: 20px;
 }
 .projectbox{
@@ -99,7 +99,7 @@ p{
     .container{
         background-image: url('Cover.png');
         background-size: cover;
-        height: 335vh;
+        height: 505vh;
     }
     .projectbox{
         flex-direction: column;

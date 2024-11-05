@@ -8,7 +8,7 @@ const Hero =()=>{
             <div className="herocontainer">
                 <div className="textbox">
                     <h1><span>Hi, my name is </span>Raheem Muiz</h1>
-                    <p>Front-end developer focused on building accessible, user-friendly websites for an exceptional user experience.</p>
+                    <p>Software developer and product designer focused on building accessible, user-friendly websites and mobile app for an exceptional user experience.</p>
                     <div className="buttonbox">
                         <button id="btn1">Contact Me</button>
                         <button id="btn2"> <img src={linkedin} alt="" /></button>

@@ -7,6 +7,7 @@ import Vscode from "/vscodeicon.png"
 import giticon from "/git-icon.png"
 import icongit from "/icongithub.png"
 import TS from "/TSicon.png"
+import Figma from "/figmaicon.png"
 const Techstack = ()=>{
     return (
         <div>
@@ -23,6 +24,7 @@ const Techstack = ()=>{
                     <img src={giticon} alt="" />
                     <img src={icongit} alt="" />
                     <img src={TS} alt="" />
+                    <img src={Figma} alt="" />
                 </div>
             </div>
         </div>

@@ -63,16 +63,17 @@ img{
     .herocontainer{
         margin-top: 0px;
         display: flex;
+        flex-direction: column;
     }
     .textbox{
-        margin-left: 20px;
-        width: 50%;
+        margin-left: 30px;
+        width: 80%;
         line-height: 1;
         margin-top: 20px;
     h1{
         font-size: 25px;
         color: #8946d5;
-        width: 90%;
+        width: 60%;
     span{
         font-size: 15px;
     }
@@ -86,7 +87,7 @@ img{
         img{
             width: 85%;
             border-radius: 200%;
-            margin-left: 5px;
+            margin-left: 30px;
             margin-top: 20px;
             border: 2px solid #8946d5;
         }
