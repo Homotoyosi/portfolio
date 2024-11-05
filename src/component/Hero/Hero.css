@@ -40,6 +40,7 @@ img{
     border: none;
     color: white;
     border-radius: 10px;
+    cursor: pointer;
 }
 #btn2{
     background-color: white;
@@ -48,15 +49,16 @@ img{
 
 img{
     width: 30px;
+    cursor: pointer;
 }
 }
 #btn3{
     background-color: white;
     border: none;
     margin-top: 15px;
-
 img{
     width: 30px;
+    cursor: pointer;
 }
 }
 @media (max-width: 800px) {
@@ -104,23 +106,24 @@ img{
             border: none;
             color: white;
             border-radius: 10px;
+            cursor: pointer;
         }
         #btn2{
             background-color: white;
             border: none;
             margin-top: 10px;
-        
         img{
             width: 20px;
+            cursor: pointer;
         }
         }
         #btn3{
             background-color: white;
             border: none;
             margin-top: 10px;
-        
         img{
             width: 20px;
+            cursor: pointer;
         }
 }
 }
